@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Photos: Webb telescope captures 19 spiral galaxies - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/01/30/james-webb-space-telescope-spiral-galaxies-photos",
+            "urlToImage": null,
+            "publishedAt": "2024-01-30T10:00:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters UK",
+            "title": "Northern Ireland's DUP strikes deal to return to power-sharing government - Reuters UK",
+            "description": null,
+            "url": "https://www.reuters.com/world/uk/northern-irelands-dup-strikes-deal-return-power-sharing-government-2024-01-30/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-30T08:14:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MUNIR AHMED",
+            "title": "Imran Khan: Former Pakistan prime minister sentenced to 10 years in prison - The Associated Press",
+            "description": "A Pakistani court has convicted former Prime Minister Imran Khan of revealing official secrets and sentenced him to 10 years in prison. It is the latest in a slew of cases that supporters say are meant to sideline the imprisoned former cricket star just days …",
+            "url": "https://apnews.com/article/pakistan-imran-khan-sentenced-e2305d25c8b81f031a47507063e3b745",
+            "urlToImage": "https://dims.apnews.com/dims4/default/ee6c0c8/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdb%2Fea%2F722be88ef897ae962ae4d35897e4%2F54bfbb3073054eab9d035a58002ee063",
+            "publishedAt": "2024-01-30T08:03:45Z",
+            "content": "ISLAMABAD (AP) A Pakistani court convicted former Prime Minister Imran Khan of revealing official secrets on Tuesday and sentenced him to 10 years the latest in a slew of legal cases that supporters … [+3446 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lim Hui Jie, Shreyashi Sanyal",
+            "title": "Hong Kong, China markets slide in the wake of Evergrande liquidation order - CNBC",
+            "description": "Investors in Asia continue to grapple with the fallout from the liquidation of Evergrande, as well as assessing Japan's unemployment numbers for December",
+            "url": "https://www.cnbc.com/2024/01/30/asia-markets.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107366062-1706570922944-gettyimages-1250058045-AFP_33CD8PW.jpeg?v=1706570938&w=1920&h=1080",
+            "publishedAt": "2024-01-30T07:43:00Z",
+            "content": "Vietnam's economy is in a \"pretty good position\" this year, said VinaCapital chief investment officer Andy Ho, who expects growth between 6% and 7% this year.\r\nApart from low interest rates and stron… [+765 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Alex Andrejev",
+            "title": "Andy Reid says Chiefs didn’t make up Kadarius Toney injury - The Athletic",
+            "description": "Toney said he was not injured as the team had listed him ahead of the AFC Championship Game.",
+            "url": "https://theathletic.com/5236513/2024/01/29/andy-reid-kadarius-toney-injury-comments/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/10/17230207/GettyImages-1737993386-scaled.jpg",
+            "publishedAt": "2024-01-30T07:01:40Z",
+            "content": "Kansas City Chiefs coach Andy Reid said the team did not make up injury reports for wide receiver Kadarius Toney, who said he was not injured as listed ahead of the AFC Championship Game.\r\nHes been o… [+1140 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Sabba Rahbar",
+            "title": "Fans Think Travis Kelce Did This Sweet Gesture for Taylor Swift After Chiefs Championship Game - E! NEWS",
+            "description": "Taylor Swift was seen sporting Travis Kelce's AFC Championship hat after the Kansas City Chiefs beat the Baltimore Ravens to advance to the Super Bowl.",
+            "url": "https://www.eonline.com/news/1394074/fans-think-travis-kelce-did-this-sweet-gesture-for-taylor-swift-after-chiefs-championship-game",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024029/cr_1200x1200-240129141538-GettyImages-1970037863.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2024-01-30T06:36:07Z",
+            "content": "Travis Kelce's cheer captain just got a new accessory.\r\nAfter his Kansas City Chiefs beat the Baltimore Ravens at the Jan. 28 AFC Championship, the tight end's girlfriend Taylor Swift joined the Kelc… [+798 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "49ers stunning comeback makes NFL history plus 13 other crazy stats from the AFC and NFC championship games - CBS Sports",
+            "description": "It was a wild Sunday in the NFL",
+            "url": "https://www.cbssports.com/nfl/news/49ers-stunning-comeback-makes-nfl-history-plus-13-other-crazy-stats-from-the-afc-and-nfc-championship-games/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/01/29/bf851954-fa15-461a-95db-2ef742a13ea5/thumbnail/1200x675/c1f5c1eae374c1e8651864015f6839de/purdy888.jpg",
+            "publishedAt": "2024-01-30T06:13:00Z",
+            "content": "The San Francisco 49ers made NFL history on Sunday during their wild comeback win over the Detroit Lions. \r\nThe 49ers were trailing 24-7 at halftime before rallying back for a wild 34-31 win. The 17-… [+4299 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Eleanor Watson",
+            "title": "Pentagon releases names of 3 soldiers killed in drone attack in Jordan - CBS News",
+            "description": "Three U.S. service members will killed in a drone attack on a base in Jordan Sunday.",
+            "url": "https://www.cbsnews.com/news/soldiers-killed-jordan-names/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/29/02e7c48b-74d9-45a5-a533-b0396c2cf363/thumbnail/1200x630g2/f47db3e8495d6d7b0d56d7ce17fc7ad2/screenshot-2024-01-29-at-3-59-22-pm.png?v=d5d292229f42ff99b81040fe7c32f134",
+            "publishedAt": "2024-01-30T05:54:00Z",
+            "content": "The Pentagon announced the names of the three American service members who were killed in an unmanned aerial drone attack on a base in northeast Jordan on Sunday.\r\nIn a press release Monday, the Defe… [+2970 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Dave McMenamin",
+            "title": "Lakers defend Vanderbilt for run-in with Brooks - ESPN",
+            "description": "The Lakers backed up Jarred Vanderbilt's decision to go at Rockets guard Dillon Brooks after a hard foul, even though it got the forward ejected in a blowout loss.",
+            "url": "https://www.espn.com/nba/story/_/id/39419716/lakers-defend-jarred-vanderbilt-run-dillon-brooks",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0130%2Fr1284336_1023x682_3%2D2.jpg",
+            "publishedAt": "2024-01-30T05:43:00Z",
+            "content": "HOUSTON -- After Jarred Vanderbilt was ejected in the first half of Monday's 135-119 loss to the Houston Rockets for a run-in with Dillon Brooks, several members of the Los Angeles Lakers defended Va… [+3911 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": "The Times of Israel",
+            "title": "US campuses aren’t the only ones erupting over Gaza: Welcome to University of Haifa - The Times of Israel",
+            "description": null,
+            "url": "https://www.timesofisrael.com/american-campuses-arent-the-only-ones-erupting-over-gaza-welcome-to-haifa-university/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-30T05:19:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.geo.tv"
+            },
+            "author": "Eloise Wells Morin",
+            "title": "Piers Morgan reacts as Kate Middleton returns home after surgery - Geo News",
+            "description": "Princess of Wales Kate Middleton returned home to Windsor to continue her recovery from surgery on Monday",
+            "url": "https://www.geo.tv/latest/529085-piers-morgan-reacts-as-kate-middleton-returns-home-after-surgery",
+            "urlToImage": "https://www.geo.tv/assets/uploads/updates/2024-01-30/l_529085_094615_updates.jpg",
+            "publishedAt": "2024-01-30T04:38:00Z",
+            "content": "Former Good Morning Britain host Piers Morgan has expressed his excitement after Kensington Palace announced that Princess of Wales Kate Middleton has returned home to Windsor to continue her recover… [+698 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Qatar PM: \"Progress\" made in Gaza hostage talks - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/01/29/gaza-hostage-hamas-israel-qatar-negotiations",
+            "urlToImage": null,
+            "publishedAt": "2024-01-30T03:58:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "San Bernardino County Sun"
+            },
+            "author": "Brian Rokos, Sean Emery",
+            "title": "5 arrested in marijuana-related killings of 6 people near El Mirage in San Bernardino County desert - San Bernardino County Sun",
+            "description": "The bodies were discovered on Jan. 23 after someone requested a “wellness check” near the community of El Mirage.",
+            "url": "https://www.sbsun.com/2024/01/29/arrests-made-in-slaying-of-6-people-in-san-bernardino-county-desert/",
+            "urlToImage": "https://www.sbsun.com/wp-content/uploads/2024/01/SBS-L-ELMIRAGE-0130-16x9-1-28.jpg?w=1024&h=576",
+            "publishedAt": "2024-01-30T03:15:06Z",
+            "content": "Five people were arrested on Sunday, Jan. 28, who San Bernardino County Sheriff Shannon Dicus said gunned down six people five days earlier during a scheduled meet-up for a marijuana deal in a remote… [+10741 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Judge denies Alex Murdaugh's bid for new double-murder trial after hearing jury tampering allegations - CBS News",
+            "description": "A South Carolina judge on Monday denied Alex Murdaugh's bid for a new trial after his defense team accused a clerk of court with tampering with a jury.",
+            "url": "https://www.cbsnews.com/news/alex-murdaugh-bid-to-prove-jury-tampering-murder-conviction/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/29/ef3d4824-4463-4345-bb17-c5fb06241436/thumbnail/1200x630/ff999c7094fc1ab4b1bd8666ba9275c9/ap24029641882543.jpg?v=d5d292229f42ff99b81040fe7c32f134",
+            "publishedAt": "2024-01-30T02:52:00Z",
+            "content": "A South Carolina judge on Monday denied Alex Murdaugh's bid for a new trial after his defense team accused a clerk of court with tampering with a jury.\r\nJudge Jean Toal ruled that even if Colleton Co… [+6520 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IFLScience"
+            },
+            "author": "Laura Simmons",
+            "title": "Alzheimer's Disease Likely Transmitted To 5 Patients Via Banned Medical Procedure - IFLScience",
+            "description": "The procedure is no longer in use, so there’s no risk of further cases developing in this way.",
+            "url": "https://www.iflscience.com/alzheimers-disease-likely-transmitted-to-5-patients-via-banned-medical-procedure-72668",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/72668/aImg/73759/amyloid-plaques-meta.jpg",
+            "publishedAt": "2024-01-30T02:10:28Z",
+            "content": "Five people with Alzheimers disease developed the condition as a result of a medical procedure decades earlier, a new study reports. While the procedure that has been implicated is no longer in use, … [+4771 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Daniel Leussink",
+            "title": "Toyota keeps crown as world's top-selling automaker in 2023 - Reuters",
+            "description": "Toyota Motor <a href=\"https://www.reuters.com/markets/companies/7203.T\" target=\"_blank\">(7203.T)</a> retained its crown as the world's top-selling automaker for the fourth consecutive year after posting record annual sales of 11.2 million in 2023, though its …",
+            "url": "https://www.reuters.com/business/autos-transportation/toyota-keeps-crown-worlds-top-selling-automaker-2023-2024-01-30/",
+            "urlToImage": "https://www.reuters.com/resizer/rKREzXzIcRjAQ1uF0c3U22nRr_Y=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GVU56LKBHROGBF2PLZD6XWG6AM.jpg",
+            "publishedAt": "2024-01-30T01:39:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Joseph Longo",
+            "title": "Milly Alcock Has Officially Been Cast As Supergirl In The DC Universe - BuzzFeed",
+            "description": "James Gunn confirmed Deadline's reporting on his Instagram page.",
+            "url": "https://www.buzzfeed.com/josephlongo/supergirl-milly-alcock-casting",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-01/30/0/enhanced/f28b3280bc9e/original-526-1706574918-2.jpg?crop=1244:651;0,89%26downsize=1250:*",
+            "publishedAt": "2024-01-30T00:57:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        }
+    ]
+}
